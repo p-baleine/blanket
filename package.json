@@ -26,7 +26,7 @@
     "node": ">=0.10.7"
   },
   "dependencies": {
-    "esprima": "~1.0.2",
+    "esprima": "git+https://github.com/ariya/esprima.git#harmony",
     "falafel": "~0.1.6",
     "xtend": "~2.1.1"
   },
